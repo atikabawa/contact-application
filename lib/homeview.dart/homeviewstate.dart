@@ -63,11 +63,11 @@ class _HomeViewState extends State<HomeView> {
         itemBuilder: (context, index) {
           return ListTile(
             title: Text(
-              "Dayan",
+              "Atika",
               style: Theme.of(context).textTheme.bodyText1,
             ),
             subtitle: Text(
-              "+233542219084",
+              "+233246577744",
               style: Theme.of(context).textTheme.bodyText2,
             ),
             trailing: IconButton(
